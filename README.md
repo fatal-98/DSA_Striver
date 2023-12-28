@@ -1,3 +1,3 @@
 # DSA_Striver
 String name  = "Akash";
-String name  = "nandi";
+String name = "Nandi";
